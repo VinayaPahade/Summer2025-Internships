@@ -1,7 +1,7 @@
 name: Edit Internship
 description: Edit an internship on our list
 title: "Editing Internship"
-labels: ["edit_internship"]
+labels: ["Summer intership 2025"]
 body:
   - type: markdown
     attributes:
